@@ -1,0 +1,17 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "takes a number as an argument and returns true if it is prime, or false otherwise",
+  "keywords": [
+    "prime",
+    "number",
+    "checker"
+  ],
+  "license": "MIT",
+  "author": "thiagogrn",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
