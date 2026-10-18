@@ -18,11 +18,19 @@
     "build-a-web-server": true,
     "learn-nodejs-repl": true,
     "build-a-case-converter": true,
+<<<<<<< HEAD
     "build-a-prime-number-checker-module": false,
     "build-a-file-processor": true,
     "build-a-family-movie-watchlist-api": true,
     "build-a-random-joke-app": true,
     "build-a-personal-profile-app": true,
+=======
+    "build-a-prime-number-checker-module": true,
+    "build-a-file-processor": true,
+    "build-a-family-movie-watchlist-api": true,
+    "build-a-random-joke-app": true,
+    "build-a-personal-profile-app": false,
+>>>>>>> f2419fa (Initial commit)
     "build-a-submission-form": true,
     "build-a-data-sanitizer": true,
     "build-a-weather-service-api": true,
@@ -42,7 +50,11 @@
       "open": true,
       "showLoader": true,
       "timeout": 4000,
+<<<<<<< HEAD
       "url": "https://solid-funicular-xg6qp79jv4vfpxqp-8080.app.github.dev"
+=======
+      "url": "https://symmetrical-memory-jp6w7v4xw4xhjj7r-8080.app.github.dev"
+>>>>>>> f2419fa (Initial commit)
     }
   ],
   "terminal.integrated.defaultProfile.linux": "bash",
